@@ -15,3 +15,4 @@
 “It’s no use going back to yesterday, because I was a different person then.”,Lewis Carroll
 “Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.”,Socrates
 “Do what you feel in your heart to be right – for you’ll be criticized anyway.”,Eleanor Roosevelt
+"Always pass on what you have learned.", Yoda
